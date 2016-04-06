@@ -11,5 +11,5 @@ public class HomePageActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
-
+      
 }
