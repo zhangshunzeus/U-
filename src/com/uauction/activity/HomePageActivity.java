@@ -1,6 +1,7 @@
 package com.uauction.activity;
 
-import com.uauction.uauction.R;
+import com.example.ushooting.R;
+
 import android.app.Activity;
 import android.os.Bundle;
 
